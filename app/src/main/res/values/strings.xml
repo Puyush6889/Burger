@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BurgerCalorieCalculator</string>
+    <string name="bun_prompt">Choose a Bun</string>
+    <string name="meat_prompt">Choose a Meat</string>
+    <string-array name="bun_list">
+        <item>White</item>
+        <item>Wheat</item>
+    </string-array>
+    <string-array name="meat_list">
+        <item>Beef</item>
+        <item>Grilled Chicken</item>
+        <item>Turkey</item>
+        <item>Salmon</item>
+        <item>Veggie</item>
+    </string-array>
+    <string name="mushrooms">Sauteed mushrooms</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="tomato">Tomato</string>
+    <string name="pickles">Pickles</string>
+    <string name="mayo">Mayo</string>
+    <string name="mustard">Mustard</string>
+</resources>
